@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@Kush&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/bhavya-sharma-060595178/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@Bhavya&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/bhavya-sharma-060595178/)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/i.bhavya.sharma/)
-[![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Gists&logoColor=blue&style=social)](https://github.com/bhavya104)
+[![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Github&logoColor=blue&style=social)](https://github.com/bhavya104)
 
 
 
