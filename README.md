@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on something cool 
-- 🌱 I’m currently learning Android Development 👨‍💻 , BodyBuilding 🦾 🏋️‍♀️
-
+- 🌱 I’m currently learning Software Development 👨‍💻 , BodyBuilding 🦾 🏋️‍♀️
 
 <!--
 📊 **I spend my much time on**
