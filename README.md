@@ -1,9 +1,9 @@
 # Hi there 👋
 
-<!--
-**bhavya104/bhavya104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<img align="center" src="https://user-images.githubusercontent.com/54014998/87872951-d1e94280-c9da-11ea-8278-4c6005d3e98a.gif" width="50%"/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
