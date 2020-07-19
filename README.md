@@ -2,9 +2,9 @@
 
 
 
-<img align="centre" src="https://user-images.githubusercontent.com/54014998/87872951-d1e94280-c9da-11ea-8278-4c6005d3e98a.gif" width="50%"/>
+<img align="right" src="https://user-images.githubusercontent.com/54014998/87872951-d1e94280-c9da-11ea-8278-4c6005d3e98a.gif" width="50%"/>
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
