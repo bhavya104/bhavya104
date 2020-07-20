@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## I am Bhavya Sharma. 
+## I am Bhavya Sharma
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/54014998/87872951-d1e94280-c9da-11ea-8278-4c6005d3e98a.gif" width="50%"/>
+<img align="right" src="https://user-images.githubusercontent.com/54014998/87872951-d1e94280-c9da-11ea-8278-4c6005d3e98a.gif" width="50%"/>
 
 
 
