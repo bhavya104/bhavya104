@@ -18,7 +18,6 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89643251-001fbb00-d8d3-11ea-9db8-3fd98305e8eb.png" width="30px" height="30px"/>](https://www.hackerrank.com/bhavyasharma_cse)
 
 <br>
-
 ### Languages: 
 
 
@@ -30,13 +29,10 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89644447-8a691e80-d8d5-11ea-8ff7-d475cb1c4a72.png" width="30px" height="30px"/>]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644446-89d08800-d8d5-11ea-834a-d482c50b311e.png" width="30px" height="30px"/>]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644432-863d0100-d8d5-11ea-9b21-86416e9ecb54.png" width="30px" height="30px"/>]()
-
-
-
-
 <br>
 
-<img align="left" alt="Bhavya Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
+### Github Stats:
+<img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
 
 
 
