@@ -28,8 +28,8 @@
 </a>
 
 
-<a href="https://dev.to/bhavya104">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
+<a href="https://www.instagram.com/i.bhavya.sharma/">
+  <img src="https://user-images.githubusercontent.com/54014998/89635610-d9f31e80-d8c4-11ea-8534-b4c03574e7a3.png" height="30px" width="30px">
 </a>
 
 
