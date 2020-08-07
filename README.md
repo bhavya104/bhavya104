@@ -11,7 +11,8 @@
 ### Connect with me:
 
 
-[<img align="left" width="26px" src="https://user-images.githubusercontent.com/54014998/89635873-4cfc9500-d8c5-11ea-838a-e1e72da47ae2.png" />][https://www.linkedin.com/in/bhavya-sharma410/]
+[<img align="left" alt="https://www.linkedin.com/in/bhavya-sharma410/ | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/54014998/89635873-4cfc9500-d8c5-11ea-838a-e1e72da47ae2.png" />][linkedin]
+
 <table>
   <tr>
     <td style="border:0px;">
