@@ -34,6 +34,7 @@ Other                  ███░░░░░░░░░░░░░░░░
 <a href="https://dev.to/bhavya104">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30" width="30">
 </a>
+[![Bhavya Sharma's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/bhavya104)
 
 <img align="left" alt="Bhavya Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
 
