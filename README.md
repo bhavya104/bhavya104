@@ -1,6 +1,6 @@
-## Hi there, I'm Bhavya Sharma 👋
+# Hi there, I'm Bhavya Sharma 👋
 
-### I'm a Developer and Student!
+## I'm a Developer and Student!
 
 - 🔭 I’m currently working on something cool 
 - 💻 I'm Android Developer and Java Developer.
@@ -17,9 +17,14 @@
 <a href="https://www.linkedin.com/in/bhavya-sharma410/">
   <img src="https://user-images.githubusercontent.com/54014998/89635873-4cfc9500-d8c5-11ea-838a-e1e72da47ae2.png" height="30px" width="30px">
 </a>
-<!--
+
 <a href="https://dev.to/bhavya104">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="30px">
+</a>
+
+
+<a href="https://medium.com/@developerbhavya">
+  <img src="https://user-images.githubusercontent.com/54014998/89635600-d790c480-d8c4-11ea-81c2-f8ef6337741c.png" height="30px" width="30px">
 </a>
 
 
@@ -27,11 +32,6 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
 </a>
 
-
-<a href="https://dev.to/bhavya104">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
-</a>
--->
 
 <a href="https://dev.to/bhavya104">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
