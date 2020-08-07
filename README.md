@@ -33,8 +33,8 @@
 </a>
 
 
-<a href="https://dev.to/bhavya104">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="22px">
+<a href="https://twitter.com/bhavyasharma104">
+  <img src="https://user-images.githubusercontent.com/54014998/89635609-d95a8800-d8c4-11ea-859c-082a4d540607.png" height="30px" width="30px">
 </a>
 
 <img align="left" alt="Bhavya Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
