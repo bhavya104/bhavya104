@@ -21,6 +21,16 @@
 
 ### Languages and Tools:
 [<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644423-83daa700-d8d5-11ea-8f91-953300b7dc52.png" width="25px" height="25px"/>]()
+
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="25px" height="25px"/>]()
 
 
 <br>
