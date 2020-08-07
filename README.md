@@ -20,8 +20,9 @@
 <br>
 
 ### Languages:
-[<img src="https://user-images.githubusercontent.com/54014998/89644434-876e2e00-d8d5-11ea-81ca-d86cf7dcbfa8.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89646974-64924880-d8da-11ea-9018-a7aa07fef132.png" width="30px" height="30px" />]()
+[<img src="https://user-images.githubusercontent.com/54014998/89644434-876e2e00-d8d5-11ea-81ca-d86cf7dcbfa8.png" width="30px" height="30px" />]()
+
 
 
 ### Tools:
