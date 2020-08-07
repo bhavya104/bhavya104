@@ -24,7 +24,7 @@
 
 
 <a href="https://medium.com/@developerbhavya">
-  <img src="https://user-images.githubusercontent.com/54014998/89635600-d790c480-d8c4-11ea-81c2-f8ef6337741c.png" height="20px" width="25px">
+  <img src="https://user-images.githubusercontent.com/54014998/89635600-d790c480-d8c4-11ea-81c2-f8ef6337741c.png" height="28px" width="30px">
 </a>
 
 
