@@ -33,5 +33,5 @@ Other                  ███░░░░░░░░░░░░░░░░
 [![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Github&logoColor=blue&style=social)](https://github.com/bhavya104)
 
 
-<img align="left" alt="Bhavya Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&title_color=#FF3933&icon_color=#FFFB33&text_color=ffffff&bg_color=242424"> 
+<img align="left" alt="Bhavya Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
 
