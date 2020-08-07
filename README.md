@@ -32,3 +32,6 @@ Other                  ███░░░░░░░░░░░░░░░░
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/i.bhavya.sharma/)
 [![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Github&logoColor=blue&style=social)](https://github.com/bhavya104)
 
+
+<img align="left" alt="bhavya sharma github stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&hide_border=true"> 
+
