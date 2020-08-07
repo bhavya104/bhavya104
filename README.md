@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/bhavya-sharma410/">
   <img src="https://user-images.githubusercontent.com/54014998/89635873-4cfc9500-d8c5-11ea-838a-e1e72da47ae2.png" height="30px" width="30px">
-</a>
+</a> <br><br>
 
 <a href="https://dev.to/bhavya104">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavya Sharma's DEV Profile" height="30px" width="30px">
