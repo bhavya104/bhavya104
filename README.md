@@ -1,7 +1,6 @@
 # Hi there, I'm Bhavya Sharma 👋
-[![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104)
-## I'm a Developer and Student!
 
+## I'm a Developer and Student! [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104)
 - 🔭 Currently working on something cool 
 - 💻 Android Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
@@ -9,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📕 Love to read Books
 
-### Connect with me:
+### Connect with me: 
 
 [<img src="https://user-images.githubusercontent.com/54014998/89635873-4cfc9500-d8c5-11ea-838a-e1e72da47ae2.png" width="30px" height="30px" />](https://www.linkedin.com/in/bhavya-sharma410/)
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="30px" height="30px"/>](https://dev.to/bhavya104)
