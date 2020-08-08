@@ -2,10 +2,10 @@
 
 ## I'm a Developer and Student!
 
-- 🔭 I’m currently working on something cool 
-- 💻 I'm Android Developer and Java Developer
-- 🌱 I’m learning Software Development 👨‍💻 
-- 💬 I am always available for help. 
+- 🔭 Currently working on something cool 
+- 💻 Android Developer and Java Developer
+- 🌱 Learning Software Development 👨‍💻 
+- 💬 Always available for help. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📕 Love to read Books
 
