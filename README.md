@@ -41,7 +41,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" /> </p>
+<img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
 
 
 
