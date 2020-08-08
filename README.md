@@ -38,8 +38,8 @@
 ### Github Stats:
 <img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=bhavya104&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" /> </p>
 
 
 
