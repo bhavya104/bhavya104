@@ -1,5 +1,5 @@
 # Hi there, I'm Bhavya Sharma 👋
-
+[![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104)
 ## I'm a Developer and Student!
 
 - 🔭 Currently working on something cool 
