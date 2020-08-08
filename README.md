@@ -36,10 +36,12 @@
 <br>
 
 ### Github Stats:
-<img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical"> 
+
+<img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical" />
+
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" /> </p>
+<img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" /> </p>
 
 
 
