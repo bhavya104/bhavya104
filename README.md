@@ -25,7 +25,6 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89644426-850bd400-d8d5-11ea-8861-d5b3572d9e9a.png" width="30px" height="30px" />]()
 
 
-
 ### Tools:
 [<img src="https://user-images.githubusercontent.com/54014998/89644418-8210e380-d8d5-11ea-80a8-7e9f5358a85a.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644423-83daa700-d8d5-11ea-8f91-953300b7dc52.png" width="30px" height="30px" />]()
@@ -35,10 +34,11 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89647264-f00bd980-d8da-11ea-89d6-bd0c857b2a2e.png" width="30px" height="30px" />]()
 <br>
 
-### Github Stats:
-
+### Profile Views:
 <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
 <br>
+
+### Github Stats:
 <img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical" />
 
 
