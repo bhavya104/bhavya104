@@ -1,7 +1,7 @@
 # Hi there, I'm Bhavya Sharma 👋
 
 ## I'm a Developer and Student! [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104)
-- 🔭 Currently learning Android Development Skills 
+- 🔭 Currently learning to manage work and time
 - 💻 Android Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
 - 💬 Always available for help. 
