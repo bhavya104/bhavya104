@@ -1,6 +1,7 @@
 # Hi there, I'm Bhavya Sharma 👋
 
-## I'm a Developer and Student! [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104)
+## I'm a Developer and Student! <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
+<!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
 - 🔭 Currently learning to manage work and time
 - 💻 Android Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
@@ -34,10 +35,6 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89644446-89d08800-d8d5-11ea-834a-d482c50b311e.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644432-863d0100-d8d5-11ea-9b21-86416e9ecb54.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89707731-85b47100-d98e-11ea-9e6b-c5ce11c56176.png" width="40px" height="30px" />]()
-<br>
-
-### Profile Views:
-<img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
 <br>
 
 ### Github Stats:
