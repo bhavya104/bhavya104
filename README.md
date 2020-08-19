@@ -38,9 +38,10 @@
 <br>
 
 ### Github Stats:
+<!--
 <img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical" />
-
-
+-->
+[![Bhavya Sharma github stats](https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
