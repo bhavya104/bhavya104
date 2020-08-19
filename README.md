@@ -25,7 +25,7 @@
 [<img src="https://user-images.githubusercontent.com/54014998/89644426-850bd400-d8d5-11ea-8861-d5b3572d9e9a.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644433-86d59780-d8d5-11ea-8310-0952115bf59f.png" width="30px" height="30px" />]()
 [<img src="https://user-images.githubusercontent.com/54014998/89644427-85a46a80-d8d5-11ea-84a0-f400d0f6554d.png" width="30px" height="30px" />]()
-[<img src="https://user-images.githubusercontent.com/54014998/89644440-889f5b00-d8d5-11ea-8899-c2b2beea3f4b.jpg" width="30px" height="30px" />]()
+[<img src="https://user-images.githubusercontent.com/54014998/90641446-e37a7000-e24e-11ea-8a21-be681e0afe9b.png" width="30px" height="30px" />]()
 <br>
 
 ### Tools:
@@ -39,7 +39,6 @@
 
 ### Github Stats:
 <img align="left" alt="Bhavya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&theme=radical" />
-
 
 
 
