@@ -2,12 +2,13 @@
 
 ## I'm a Developer and Student! <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
-- 🔭 Currently learning to manage work and time
+- 🔭 Currently learning to manage work and time.
+- 📘 Currently Third Year Computer Science Student.
 - 💻 Android Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
 - 💬 Always available for help. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 📕 Love to read Books
+- 📕 Love to read Books.
 
 ### Connect with me: 
 
