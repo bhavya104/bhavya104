@@ -4,8 +4,8 @@
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
 - 🔭 Currently learning to manage work and time.
 - 📘 Currently Third Year Computer Science Student.
-- 💻 Android Developer and Java Developer
-- 🌱 Learning Software Development 👨‍💻 
+- 💻 Software Developer
+- 🌱 Gaining Problem Solving Skills 👨‍💻 
 - 💬 Always available for help. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📕 Love to read Books.
