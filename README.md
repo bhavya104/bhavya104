@@ -7,9 +7,11 @@
 
 - 💬 Ask me about **DSA, CS core subjects, Algorithms, Android, Web**
 
-- 📫 How to reach me **Ping me at bhavyasharma646@gmail.com**
+- 📫 How to reach me **Ping me at bhavyasharma.cse@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+- 📄 Know about my experiences https://bhavya104.github.io/devbhavya/](https://bhavya104.github.io/devbhavya/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
