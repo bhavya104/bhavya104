@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- 📄 Know about my experiences https://bhavya104.github.io/devbhavya/](https://bhavya104.github.io/devbhavya/)
+- 📄 Know about my experiences [Website](https://bhavya104.github.io/devbhavya/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
