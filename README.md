@@ -1,5 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">Normal CS Guy</h3>
+<h3 align="center"> <a href="https://about.me/bhavya_sharma">Hire Me</a> </h3>
  
  <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
  
