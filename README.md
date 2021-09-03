@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavya104&show_icons=true&locale=en" alt="bhavya104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya104&" alt="bhavya104" /></p>
+
+
+<!-- [![Bhavya github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavya104&theme=xcode)](https://git.io/bhavya104) -->
+
